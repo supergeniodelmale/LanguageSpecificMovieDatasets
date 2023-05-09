@@ -1,9 +1,9 @@
-# LanguageSpecificMovieDatasets
+## LanguageSpecificMovieDatasets
 
-##**Introduction**##
+# Introduction
 This repository contains language-specific datasets that provide information on the most popular movies from a given country available on TMDB as of May 2023. The data was collected by a Python script through the TMDB API, entries were then filtered to remove any film that had "overview", "release_date" and "vote_average" data missing. Some details such as "genre", "duration", etc. where omitted but they can be easily retrieved with TMDB API by use of movie_id parameter from the "id" column.
 
-##**Contents**##
+# Contents
 
 | Language            | Number of entries | 
 | ------------------- |:-----------------:|
