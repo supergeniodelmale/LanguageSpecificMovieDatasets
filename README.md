@@ -14,7 +14,7 @@ This repository contains language-specific datasets that provide information on 
 | Polish              | 1666              |
 | Danish              | 1780              |
 | Spanish             | 6445              |
-| Portoguese          | 1572              |
+| Portuguese          | 1572              |
 
 ## Contents
 
