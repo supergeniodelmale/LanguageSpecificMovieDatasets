@@ -9,12 +9,12 @@ This repository contains language-specific datasets that provide information on 
 | ------------------- |:-----------------:|
 | English (American)  | 9777              |
 | Italian             | 6118              |
-| French              | 6118              |
-| German              | 6118              |
-| Polish              | 6118              |
-| Danish              | 6118              |
-| Spanish             | 6118              |
-| Portoguese          | 6118              |
+| French              | 8077              |
+| German              | 5747              |
+| Polish              | 1666              |
+| Danish              | 1780              |
+| Spanish             | 6445              |
+| Portoguese          | 1572              |
 
 ## Contents
 
